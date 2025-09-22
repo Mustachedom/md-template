@@ -1,0 +1,1 @@
+This is a basic template that already has oxmysql and ox_lib loaded through the manifest. Just a quick download instead of consistently making folders
